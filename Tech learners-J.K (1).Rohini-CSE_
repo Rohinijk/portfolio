@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shinchan's Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shinchan's Portfolio</h1>
+    </header>
+    
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#gallery">gallery</a></li>
+            <li><a href="#video">video</a></li>
+            <li><a href="#contact">Contact</a></li>
+            
+        </ul>
+    
+    <section id="about">
+        <h2>About Shinchan</h2>
+        <p>Shinchan is a mischievous and lovable five-year-old boy.</p>
+        <p>Shinnosuke Nohara, commonly known as Shinchan, is the main character of the manga and anime series "Crayon Shinchan." He is a five-year-old boy known for his mischievous and cheeky behavior. Here are some key characteristics of Shinchan:
+
+            1. *Mischievous*: Shinchan is highly mischievous and often gets himself into trouble with his antics. He has a playful and carefree nature.
+            
+            2. *Innocent*: Despite his mischievousness, Shinchan is ultimately an innocent and well-meaning child. He doesn't understand the full implications of his actions.
+            
+            3. *Blunt and Honest*: He tends to speak his mind without much filter, which can sometimes lead to awkward or humorous situations. He's known for his straightforwardness.
+            
+            4. *Love for Action Heroes*: Shinchan is a big fan of action heroes, particularly "Action Kamen." He often imitates his favorite hero in imaginative play.
+            
+            5. *Unpredictable*: His behavior can be quite unpredictable. He might switch from being cheerful to stubborn or defiant in a matter of moments.
+            
+            6. *Attachment to Family*: Shinchan has a strong attachment to his family, particularly his mother, Misae, and his dog, Shiro. He may act up, but he genuinely cares for them.
+            
+            7. *Love for Snacks*: He has a big appetite and is especially fond of snacks like chocolate, candy, and sweets.
+            
+            8. *Distinct Appearance*: Shinchan is recognizable by his trademark red jumper and oversized head with large eyes.
+            
+            9. *Potty Humor*: The series often incorporates potty humor, with Shinchan finding amusement in bathroom-related jokes and situations.
+            
+            10. *Creative Imagination*: He has a vivid imagination, which leads to fantastical and imaginative adventures in his play.
+            
+            Remember, these characteristics are based on the portrayal of Shinchan in the "Crayon Shinchan" series. If you have any specific questions about him, feel free to ask!
+            </p>
+        <p>Shinnosuke Nohara, commonly known as Shinchan, is the main character of the manga and anime series "Crayon Shinchan." He is a five-year-old boy known for his mischievous and cheeky behavior. Here are some key characteristics of Shinchan:
+
+            1. *Mischievous*: Shinchan is highly mischievous and often gets himself into trouble with his antics. He has a playful and carefree nature.
+            
+            2. *Innocent*: Despite his mischievousness, Shinchan is ultimately an innocent and well-meaning child. He doesn't understand the full implications of his actions.
+            
+            3. *Blunt and Honest*: He tends to speak his mind without much filter, which can sometimes lead to awkward or humorous situations. He's known for his straightforwardness.
+            
+            4. *Love for Action Heroes*: Shinchan is a big fan of action heroes, particularly "Action Kamen." He often imitates his favorite hero in imaginative play.
+            
+            5. *Unpredictable*: His behavior can be quite unpredictable. He might switch from being cheerful to stubborn or defiant in a matter of moments.
+            
+            6. *Attachment to Family*: Shinchan has a strong attachment to his family, particularly his mother, Misae, and his dog, Shiro. He may act up, but he genuinely cares for them.
+            
+            7. *Love for Snacks*: He has a big appetite and is especially fond of snacks like chocolate, candy, and sweets.
+            
+            8. *Distinct Appearance*: Shinchan is recognizable by his trademark red jumper and oversized head with large eyes.
+            
+            9. *Potty Humor*: The series often incorporates potty humor, with Shinchan finding amusement in bathroom-related jokes and situations.
+            
+            10. *Creative Imagination*: He has a vivid imagination, which leads to fantastical and imaginative adventures in his play.
+            
+            Remember, these characteristics are based on the portrayal of Shinchan in the "Crayon Shinchan" series. If you have any specific questions about him, feel free to ask!
+            </p>
+            
+    </section>
+
+    <section id="gallery">
+        <h3>shinchan images</h3>
+        <img src="data:image/png;base64,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"alt= shinchan image>
+
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHQAQQMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAAAwECBQYHBP/EADQQAAEEAgECBAUDAAsAAAAAAAEAAgMRBBIFITEGE0FRByIyYYEUI3EWMzRCQ3KxwdHh8P/EABkBAQACAwAAAAAAAAAAAAAAAAABBAIDBf/EACIRAAIDAAIBBAMAAAAAAAAAAAABAgMREjEEQYGR8BQhIv/aAAwDAQACEQMRAD8A5GhSrU3y73O+1a69K97/ANl1yuUQhCAkgg0QQfYqFeaWWeV0s7y+RxtznHqVRACFZoGw2sNvrXelX+UAIQhAM1RqmaopSBWqnRNpFIBOqkNTaUUgKUigr6hRr7ICtD2QralSgG0EwSvEDoAf23ODyKHcfdUpFFARSKCmkUgJBIjLKbRIN6i+n3/KrqFNFFICKFdvyilNIpARSFNKUAyhX3UUm6o1QCtVbZ/leVsfL2219L7WsnwHC5XPctBx2EGiWUkl7vpY0dS4/YBdA5D4d+GuK/Ry8hzUox2v/fdNI2NmSasMaR1HY3RJr1Hcabb4VvH2Zxg5dHKNmB2uzb9rVqXfsfw7w7OClYOO47Pxi58uHFJG0sDXdWsa8g/LfZw9D2XPeX+HOczkcR0H6fGOcZGnFxIZHQY7w3ZgLnOJ1dTgXAAA18q0R82LeNYbJUNI0SkUnQyyRNfp8olZq4EA209f+FSldNBSkK6EBelaRzpHl8ji5x7knqVbVMx4g+aNrjQLgCgOo/B/hsQcbPy7gJMqSV0I635bBRqvcmj/ABS3Lm+BwuaOM/KdkRTYznOhnxp3RSM2FOAc09iOhWL8HYcXHMiZiHVkteY1v977/wArYIoBFkzlmaZDM+xHJ106fS0WKC4fl2KE+Un2XapR44zDcx4Vx87iMHjMSVuNjYVCOGSETxOaGFoD2O+qrsEnoQCsh4f4hnEcZgcTBPLK3Gi8sSyG3aj/AMAB6CvZemfJgxv7TnYsX+dwb/q5YbO8XcTxx8yDMdmzDoI4gC0gkX81V6e5Wqtzv/muLfsTOyEVumA+KPg/g8Dw3JyfH4ceJkY7omDyrDXtLgyiO3QV1+y5DqugfETx1/SDGZxmFjy4+MyTecy67SEfSBRPQHr73X50LVdjxYWQryzspyab1FNUJmqFZMSykdEzRGiA2LwtzmTByOMZ8siKGWN3l9SXgOFgADvXX8LZviTMJ+cYxzXNbHjtALmkE2SbF+np+Cud47vJmZJROpvp3Wz85lZjhg5XMTOl/VYzZIHu+b9v0Bod+p/7WVFUPyYWtpYmvn6zCxvi0jyhoA6AKB9RHv2SxlQH/FH56KnKEwskhfceQwt+Rw1c02D/ACF2p3QUW00VVFt4zG8rG6PkJWuaWuBGzSKINLy6nW+neqvqmO2e4ue4uc42XONklRoVxZS5NsuJYsF0hN0KFiSMpFJmiNFOAXSdPk5GSGDIme9sbdY2k/KwezR2A6eirop0UcfUC6Xq5TOl5POkzcj+vlDfMN/U4NAv80k6I0Ucf3oF0FCZojRZYBahO0QmAuhCFIBCEIAQhCAEIQgBCEID/9k"alt=shinchan image>
+        </section>
+        <section id="video">
+            <h4>famous video</h4>
+            <video width="640" height="360" controls>
+                <source src=https://sharechat.com/item/5alwWa6A?referer=tagFreshFeed type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+    <section id="contact">
+        <h5>Contact Shinchan</h5>
+        <p>You can contact Shinchan at <a href="mailto:shinchan@email.com">shinchan@email.com</a></p>
+    </section>
+</body>
+</html>
